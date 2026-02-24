@@ -1,4 +1,4 @@
-# Hi there, my name is Hala Elhanafy! 👋
+# Hi there, my name is Hala Elhanafy!👋
 
 ## 🚀 About me!
 
@@ -16,4 +16,4 @@ And outside of my coursework, I am teaching myself how to code in both Python an
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
