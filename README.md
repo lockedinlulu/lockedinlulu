@@ -1,8 +1,8 @@
-# Hi there, my name is Hala Elhanafy!👋
+# Hi there, my name is Hala!👋
 
 ## 🚀 About me!
 
-I am a freshman at John Jay College of Criminal Justice, currently pursuing a bachelor in Computer Science and Information security. 
+I am a rising sophmore, currently pursuing a bachelor in Computer Science and Information security. 
 
 Some of my hobbies include writing, playing chess, and fashion design, which contributes to my growing interest in the intersection of fashion and technology; fashiontech.
 
